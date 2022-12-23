@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4vBpSLMYOV5omHwWb5XLmXxPQR/98C4ie3zqgg2QygWf3xAr5uuU4gkrespJrfByypIAFXbjtHdeuKsjXDd0NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wojtek\\Desktop\\zadanie\\zadanie\\zadanie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wojtek\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
